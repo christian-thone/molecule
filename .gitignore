@@ -1,5 +1,6 @@
 *.env
 *.json
+*.gitignore
 *__pycache__
 ExtraFunctions
 Databases
